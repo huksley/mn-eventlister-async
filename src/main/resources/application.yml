@@ -1,0 +1,9 @@
+---
+micronaut:
+    application:
+        name: mn-eventlister-async
+
+---
+kafka:
+    bootstrap:
+        servers: localhost:9092
